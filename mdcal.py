@@ -68,3 +68,5 @@ if __name__ == "__main__":
         print_calendar(year, month)
     else:
         print('Usage: python mdcal.py [year] [month]')
+
+"""D:\008_gitProjects\eooeo\mdcal> python mdcal.py 2021 6"""
